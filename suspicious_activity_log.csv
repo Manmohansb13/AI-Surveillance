@@ -1,0 +1,5 @@
+Track_ID,Timestamp_s,Dwell_Time_s,Net_Displacement,Path_Length,Meander_Ratio,Reason
+52,1.84,1.04,69.23,84.03,0.82,Loitering | Dwell=1.0s M=0.82
+19,3.6,1.04,174.35,197.08,0.88,Loitering | Dwell=1.0s M=0.88
+39,5.2,1.04,252.24,300.08,0.84,Loitering | Dwell=1.0s M=0.84
+12,6.92,1.04,336.41,382.22,0.88,Loitering | Dwell=1.0s M=0.88
