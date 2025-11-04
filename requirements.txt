@@ -1,0 +1,6 @@
+ultralytics>=8.0.200
+opencv-python
+deep-sort-realtime
+pandas
+numpy
+openpyxl
